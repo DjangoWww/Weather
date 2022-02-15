@@ -74,6 +74,11 @@
                             <constraint firstAttribute="bottom" secondItem="pFb-fa-dTa" secondAttribute="bottom" id="WNf-4J-GZc"/>
                             <constraint firstItem="pFb-fa-dTa" firstAttribute="leading" secondItem="WNy-Iv-Ypj" secondAttribute="leading" constant="12" id="zdB-nU-z9I"/>
                         </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="5"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
                     </view>
                 </subviews>
                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
