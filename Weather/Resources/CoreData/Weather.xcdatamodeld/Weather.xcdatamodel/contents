@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19574" systemVersion="21D49" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Forecast" representedClassName="Forecast" syncable="YES" codeGenerationType="class">
+        <attribute name="value" optional="YES" attributeType="Transformable"/>
+    </entity>
+    <elements>
+        <element name="Forecast" positionX="-147.078125" positionY="-18" width="212.078125" height="44"/>
+    </elements>
+</model>
